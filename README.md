@@ -5,3 +5,4 @@ El programa que se realizó es un conversor de unidades interactivo y dinámico 
 
 # Tecnologias utilizadas:
 Entre las tecnologias utilizadas en este programa se encuentran el HTML, CSS y JavaScript, combinados para poder lograr el resultado deseado y optimo, así como ofreciendo un diseño interactivo y visualmente atractivo:
+- •	HTML es el que se encarga de estructurar la página web y definir los elementos esenciales como los selectores desplegables, el botón de conversión y el contenedor del resultado. También aquí se incluye el video de fondo, proporcionando una base accesible para la interfaz.
